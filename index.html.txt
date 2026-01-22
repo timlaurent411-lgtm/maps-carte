@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Carte Journey Amps</title>
+</head>
+<body>
+  <h1>Carte du mode Journey Amps</h1>
+  <p>Bienvenue sur mon site !</p>
+</body>
+</html>
